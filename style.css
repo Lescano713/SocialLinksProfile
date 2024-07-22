@@ -78,5 +78,6 @@ main{
     button:hover{
         background-color: var(--colorText2);
         cursor: pointer;
+        color: var(--colorBackground);
     }
 }
