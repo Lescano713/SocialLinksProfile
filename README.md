@@ -23,7 +23,6 @@
   - [Continued development](#continued-development)
 
 
-
 ## Overview
 
 ### The challenge
