@@ -76,7 +76,7 @@ main{
         border: 0;
     }
     button:hover{
-        background-color: var(--colorBackground);
+        background-color: var(--colorText2);
         cursor: pointer;
     }
 }
